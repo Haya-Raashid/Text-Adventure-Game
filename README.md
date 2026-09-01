@@ -25,7 +25,7 @@ To uncover the truth, the player must:
 - Manage their health while solving challenges
 - Collect important items
 - Experience randomized events within locations
-- 
+ 
 ## Features
 
 - Interactive console-based gameplay
